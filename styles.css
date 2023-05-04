@@ -1,11 +1,7 @@
 img{
-	width:150px;
-	height:150px;
-}
-.container-fluid .row{
-	display:grid;
-	grid-template-columns:repeat(12,33%);
-	grid-template-rows:repeat(4,23%);
-
+	width:100px;
+	height:100px;
+	margin:10px;
+	padding:10px;
 }
 /* Your CSS Code here. */
